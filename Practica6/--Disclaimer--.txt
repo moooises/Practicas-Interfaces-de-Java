@@ -1,0 +1,8 @@
+-No garantizo la total correccion de estas practicas, de hecho os adelanto que la gran mayoria no estan pulidas o directamente no funcionan
+-Su principal uso es guiar al alumno perdido y no incentivar la copia, no las copies porque se van a dar cuenta y os cascan un 0.
+-Cada alumno es responsable del uso que de a este código.
+-A la codificacion del automata 1-D esta mal hecha, Tomeu deberia daros un pdf explicando como se hace en unas 3 paginas
+-A partir de la practica 6, la de codificacion, gran mono simio 03 hayo una forma de conprimir el codigo en un .java, creado trabajando
+con la clase canvas y graphics2D
+
+Unga unga.
